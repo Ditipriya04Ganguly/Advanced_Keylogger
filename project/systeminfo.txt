@@ -1,0 +1,40 @@
+Public IP Address: 49.37.43.206Processor: Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+System: Windows 10.0.22000
+Machine: AMD64
+Hostname: LAPTOP-J75E76O8
+Private IP Address: 192.168.29.217
+Public IP Address: 49.37.43.206Processor: Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+System: Windows 10.0.22000
+Machine: AMD64
+Hostname: LAPTOP-J75E76O8
+Private IP Address: 192.168.29.217
+Public IP Address: 49.37.43.206Processor: Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+System: Windows 10.0.22000
+Machine: AMD64
+Hostname: LAPTOP-J75E76O8
+Private IP Address: 192.168.29.217
+Public IP Address: 49.37.43.206Processor: Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+System: Windows 10.0.22000
+Machine: AMD64
+Hostname: LAPTOP-J75E76O8
+Private IP Address: 192.168.29.217
+Public IP Address: 49.37.43.206Processor: Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+System: Windows 10.0.22000
+Machine: AMD64
+Hostname: LAPTOP-J75E76O8
+Private IP Address: 192.168.29.217
+Public IP Address: 49.37.43.206Processor: Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+System: Windows 10.0.22000
+Machine: AMD64
+Hostname: LAPTOP-J75E76O8
+Private IP Address: 192.168.29.217
+Public IP Address: 49.37.43.206Processor: Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+System: Windows 10.0.22000
+Machine: AMD64
+Hostname: LAPTOP-J75E76O8
+Private IP Address: 192.168.29.217
+Public IP Address: 49.37.43.206Processor: Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+System: Windows 10.0.22000
+Machine: AMD64
+Hostname: LAPTOP-J75E76O8
+Private IP Address: 192.168.29.217
